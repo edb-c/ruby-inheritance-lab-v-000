@@ -20,7 +20,7 @@ steve.learn(some_knowledge)
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 
 #Bonus Implementation
-jim = User.new
+jim = Student.new
 jim.first_name = "Jim"
 jim.last_name = "Brown"
 some_knowledge2 = avi.teach 
